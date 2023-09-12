@@ -3,8 +3,8 @@
 ## **Who am I ?**
 
 **I am :**
-- [X] am studying
+- [X] a student at IIM
 
-- [X] loves to sleep
+- [X] addicted to sleep
 
 - [ ] Gandalf
