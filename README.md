@@ -1,6 +1,10 @@
-# Welcome to my page
+# **Welcome to my page**
 
-## I:
-- [x] am studying
+## **Who am I ?**
+
+**I am :**
+- [X] am studying
 
 - [X] loves to sleep
+
+- [ ] Gandalf
