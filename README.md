@@ -1,10 +1,10 @@
-# **Welcome to my page**
+# **Hey :wave:, Bienvenue sur mlon profil**
 
-## **Who am I ?**
+## **Qui suis-je ?**
 
-**I am :**
-- [X] a student at IIM
+**Je suis :**
+- [X] un étudiant IIM
 
-- [X] addicted to sleep
+- [X] addicte au sommeil
 
 - [ ] Gandalf
