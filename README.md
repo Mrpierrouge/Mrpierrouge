@@ -19,7 +19,7 @@
 
 - :video_game: Les jeux vidéos 
 
-
+<br>
 
 ## **Mes travaux :**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrpierrouge&layout=donut-vertical)](https://github.com/Mrpierrouge/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrpierrouge&langs_count=4&layout=donut-vertical&theme=dark)](https://github.com/Mrpierrouge/github-readme-stats)
